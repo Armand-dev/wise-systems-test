@@ -23,7 +23,7 @@
         <nav class="navbar navbar-light bg-light">
             <span class="navbar-brand mb-0 h1">Armand Codreanu</span>
             <div>
-                <a href="#">
+                <a href="https://github.com/Armand-dev/wise-systems-test">
                     <span>
                         <span class="text-black-50 mr-1" style="font-size: 14px;">
                             GitHub
