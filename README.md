@@ -7,3 +7,7 @@ The mandatory function isCnpValid()
 can be found in App\Controllers\CnpController.php
 
 Thank you!
+
+# Installation
+You need a php server.
+Run <pre>composer install && composer update</pre> 
